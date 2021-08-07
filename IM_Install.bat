@@ -1,1 +1,1 @@
-echo "We will add IM install UseCase script while will install Installation manager binaries on server : %date% : %time%"
+echo "This UseCase script will install Installation Manager on server : %date% : %time%"
